@@ -1,8 +1,3 @@
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Satish</h1>
 <h3 align="center">A passionate #RPA developer from India</h3>
 Launched in 2019, RPABOTSWORLD.com has established itself as an indispensable resource for robotics process automation education and community building. 
@@ -54,9 +49,9 @@ Our content includes in-depth features, starting guide, how-to-articles, bylined
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/satman778"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="satman778" /></a><a href="https://ko-fi.com/satman778"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="satman778" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpabotsworld&show_icons=true&locale=en&layout=compact" alt="rpabotsworld" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satman778&show_icons=true&locale=en&layout=compact" alt="rpabotsworld" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rpabotsworld&show_icons=true&locale=en" alt="rpabotsworld" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satman778&show_icons=true&locale=en" alt="rpabotsworld" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rpabotsworld&" alt="rpabotsworld" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satman778&" alt="rpabotsworld" /></p>
 
