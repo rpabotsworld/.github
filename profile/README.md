@@ -9,11 +9,3 @@ We make it our mission to cover all aspects of RPA—philosophy, tools, business
 Our site is the largest collection of original content related to RPA on the web and one of the top results for RPA-related search terms. 
 
 Our content includes in-depth features, starting guide, how-to-articles, bylined articles, technical blog posts and breaking news about the topics that resonate with IT readers interested in RPA.
-
-##👇🏽👇🏼👇🏻👇🏾Visit us, don't be a stranger👇🏾👇🏻👇🏼👇🏽
-
-👉Follow #rpabotsworld for latest trends and in-depth articles on #rpa
-👉Follow us on telegram - https://t.me/rpabotsworld
-👉Star us on GitHub- https://medium.com/rpabotsworld
-👉Subscribe our YouTube channel for more content on #rpa- https://www.youtube.com/c/RPABOTSWORLD![image]
-
